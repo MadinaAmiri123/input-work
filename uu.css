@@ -1,0 +1,24 @@
+nav{
+  display: flex;
+  gap: 15rem;
+  justify-content: space-between;
+  align-items: center;
+  
+
+}
+menu{
+  display: flex;
+  list-style:none;
+
+
+  
+}
+btns{
+  padding: 12px;
+  border-radius: 12px;
+  color: white;
+  
+
+  }
+
+
